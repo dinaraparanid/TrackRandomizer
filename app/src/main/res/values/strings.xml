@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TrackRandomizer</string>
+    <string name="track_cover_description">Track\'s cover</string>
+    <string name="read_ext_storage_why">App works with tracks on your phone</string>
 </resources>
